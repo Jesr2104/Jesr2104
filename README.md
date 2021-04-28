@@ -2,8 +2,6 @@
 
 ![https://github.com/Jesr2104](https://raw.githubusercontent.com/jesr2104/jesr2104/master/banner-githud.png)
 
-I'm a professional software developer 
-
 I am a professional application developer focused on development for mobile devices, tables and other devices with Android OS, I have worked in some FreeLancer projects for the development of custom software for small businesses, also in some character projects to develop my knowledge , and promote continued growth.
 
 ## Languages:
