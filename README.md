@@ -2,9 +2,9 @@
 
 ![https://github.com/Jesr2104](https://raw.githubusercontent.com/jesr2104/jesr2104/master/banner-githud.png)
 
-I consider myself as a responsible, dedicated and efficient person in the tasks I do. I become very focused and motivated with my duties and responsibilities.
-Related to a work environment, I am an easy-going person, good in a team work atmosphere and a hard worker. I also can bring new ideas and creativity to the workplace.
-With my experience I have improved my logical skills to solve real life problems.
+I'm a professional software developer 
+
+I am a professional application developer focused on development for mobile devices, tables and other devices with Android OS, I have worked in some FreeLancer projects for the development of custom software for small businesses, also in some character projects to develop my knowledge , and promote continued growth.
 
 ## Languages:
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&labelColor=101010)]()
