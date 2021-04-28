@@ -2,7 +2,7 @@
 
 ![https://github.com/Jesr2104](https://raw.githubusercontent.com/jesr2104/jesr2104/master/banner-githud.png)
 
-I am a professional Android developer focused on the development for mobile devices, tables and other Android OS devices, I have worked in some FreeLancer projects for the development of custom software for small businesses, university projects, also in some personal projects to develop my knowledge, and promote continued professional growth.
+I am a professional Android Software developer focused on the development for mobile devices, tables and other Android OS devices, I have worked in some FreeLancer projects for the development of custom software for small businesses, university projects, also in some personal projects to develop my knowledge, and promote continued professional growth.
 
 ## Languages:
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&labelColor=101010)]()
