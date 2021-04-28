@@ -7,7 +7,7 @@ Related to a work environment, I am an easy-going person, good in a team work at
 With my experience I have improved my logical skills to solve real life problems.
 
 ## Languages:
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
 [![C-Sharp](https://img.shields.io/badge/CSharp-3a0093?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
