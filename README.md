@@ -13,7 +13,7 @@ With my experience I have improved my logical skills to solve real life problems
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 <br>
 [![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![C-Sharp](https://img.shields.io/badge/C-Sharp-3a0093?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![C-Sharp](https://img.shields.io/badge/CSharp-3a0093?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-005b00?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
