@@ -19,8 +19,8 @@ With my experience I have improved my logical skills to solve real life problems
 <br>
 ## Tools:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-7dfaff?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-4285f4?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-f4426c?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 <br>
 ## Another tools:
 <p align="left"> 
