@@ -18,11 +18,13 @@ With my experience I have improved my logical skills to solve real life problems
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-4285f4?style=flat&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-f4426c?style=flat&logo=android-studio&logoColor=white&labelColor=101010)]()
 <br>
-[![Android](https://img.shields.io/badge/MVP-3DDC84?style=flat=android)]()
-[![Android](https://img.shields.io/badge/MVVM-3DDC84?style=flat=android)]()
-[![Android](https://img.shields.io/badge/Jetpack-3DDC84?style=flat=android)]()
-[![Android](https://img.shields.io/badge/Dagger2-3DDC84?style=flat=android)]()
-[![Android](https://img.shields.io/badge/Koin-3DDC84?style=flat=android)]()
+[![MVP](https://img.shields.io/badge/MVP-3DDC84?style=flat=MVP)]()
+[![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=flat=MVVM)]()
+[![Jetpack](https://img.shields.io/badge/Jetpack-3DDC84?style=flat=Jetpack)]()
+[![Dagger2](https://img.shields.io/badge/Dagger2-3DDC84?style=flat=Dagger2)]()
+[![Koin](https://img.shields.io/badge/Koin-3DDC84?style=flat=Koin)]()
+[![XML](https://img.shields.io/badge/XML-3DDC84?style=flat=XML)]()
+[![APIs](https://img.shields.io/badge/APIs_for_Android_environments-3DDC84?style=flat=APIs)]()
 <br>
 ## Data Bases: 
 [![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=flat&logo=mysql&logoColor=white&labelColor=101010)]()
