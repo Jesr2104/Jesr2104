@@ -6,21 +6,23 @@ I consider myself as a responsible, dedicated and efficient person in the tasks 
 Related to a work environment, I am an easy-going person, good in a team work atmosphere and a hard worker. I also can bring new ideas and creativity to the workplace.
 With my experience I have improved my logical skills to solve real life problems.
 
-## Languages and tools:
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+## Languages:
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-7dfaff?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-<br>
 [![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![C-Sharp](https://img.shields.io/badge/CSharp-3a0093?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-005b00?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+<br>
+## Data Bases: 
 [![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-
-## another tools:
+<br>
+## Tools:
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-7dfaff?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+<br>
+## Another tools:
 <p align="left"> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
