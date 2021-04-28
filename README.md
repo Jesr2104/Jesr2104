@@ -14,7 +14,7 @@ With my experience I have improved my logical skills to solve real life problems
 [![Python](https://img.shields.io/badge/Python-005b00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 <br>
 ## Data Bases: 
-[![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 <br>
 ## Tools:
