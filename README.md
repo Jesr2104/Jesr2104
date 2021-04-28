@@ -9,7 +9,7 @@ With my experience I have improved my logical skills to solve real life problems
 ## Languages:
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++-00599c?style=flat&logo=c&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-00599c?style=flat&logo=C++&logoColor=white&labelColor=101010)]()
 [![C-Sharp](https://img.shields.io/badge/CSharp-3a0093?style=flat&logo=sharp&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-005b00?style=flat&logo=python&logoColor=white&labelColor=101010)]()
 <br>
