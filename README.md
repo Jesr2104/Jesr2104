@@ -18,6 +18,8 @@ With my experience I have improved my logical skills to solve real life problems
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-4285f4?style=flat&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-f4426c?style=flat&logo=android-studio&logoColor=white&labelColor=101010)]()
 <br>
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat=android&logoColor=white&labelColor=101010)]()
+<br>
 ## Data Bases: 
 [![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=flat&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=101010)]()
