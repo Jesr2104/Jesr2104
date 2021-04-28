@@ -13,14 +13,14 @@ With my experience I have improved my logical skills to solve real life problems
 [![C-Sharp](https://img.shields.io/badge/CSharp-3a0093?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-005b00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 <br>
-## Data Bases: 
-[![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-<br>
-## Tools:
+Tools:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-4285f4?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 [![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-f4426c?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+<br>
+## Data Bases: 
+[![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 <br>
 ## Another tools:
 <p align="left"> 
