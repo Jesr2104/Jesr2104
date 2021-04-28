@@ -8,19 +8,19 @@ With my experience I have improved my logical skills to solve real life problems
 
 ## Languages:
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
-[![C-Sharp](https://img.shields.io/badge/CSharp-3a0093?style=for-the-badge&logo=sharp&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-005b00?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&labelColor=101010)]()
+[![C++](https://img.shields.io/badge/C++-00599c?style=flat&logo=c&logoColor=white&labelColor=101010)]()
+[![C-Sharp](https://img.shields.io/badge/CSharp-3a0093?style=flat&logo=sharp&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-005b00?style=flat&logo=python&logoColor=white&labelColor=101010)]()
 <br>
 ## Tools
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-4285f4?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-[![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-f4426c?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white&labelColor=101010)]()
+[![Android_Studio](https://img.shields.io/badge/Android_Studio-4285f4?style=flat&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-f4426c?style=flat&logo=android-studio&logoColor=white&labelColor=101010)]()
 <br>
 ## Data Bases: 
-[![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![MYSQL](https://img.shields.io/badge/MYSQL-dd8a00?style=flat&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white&labelColor=101010)]()
 <br>
 ## Another tools:
 <p align="left"> 
