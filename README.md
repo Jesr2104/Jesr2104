@@ -49,6 +49,7 @@ I am a professional Android Software developer focused on the development for mo
 
 
 <h1 align="center">Hi 👋, I'm Jorge Soto Ramos</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesr2104&label=Profile%20views&color=0e75b6&style=flat" alt="jesr2104" /> </p>
 
 ![https://github.com/Jesr2104](https://raw.githubusercontent.com/jesr2104/jesr2104/master/banner-githud.png)
 
