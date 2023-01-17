@@ -49,15 +49,22 @@ I am a professional Android Software developer focused on the development for mo
 
 
 <h1 align="center">Hi 👋, I'm Jorge Soto Ramos</h1>
+
 ![https://github.com/Jesr2104](https://raw.githubusercontent.com/jesr2104/jesr2104/master/banner-githud.png)
+
 Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android developer with a strong background in developing high-quality applications for large companies. I have a deep understanding of popular design patterns such as MVC, MVP, MVVM, and Clean Architecture, as well as the latest tools and technologies such as Jetpack Compose, Koin, Dagger Hilt, Coroutines, LiveData, Compose States, Rooms, and Retrofit. I am highly adaptable and have experience in multiple programming languages such as C++, Java, Python, HTML, CSS, JavaScript and currently focused on Kotlin. With many years of experience in the software development industry, I am dedicated to writing clean and maintainable code. I look forward to contributing to new and exciting projects on GitHub.
+
+- 🔭 I’m currently working on: [TrickyWords](https://github.com/Jesr2104/TrickyWords_MiniGame)
+
+- 🌱 I’m currently learning: **Android constantly, Arduino**
+
+- 📫 How to reach me: **jjsotoramos@hotmail.com**
+
+- ⚡ Something about me: **I am a passionate software developer with a love for sports like BMX, Calisthenics, and boxing. My true passion, however, lies in the world of video games. It was my desire to understand how they were created that led me to study computer science and develop my own 2D and 3D games using C++ and libraries like SDL and DirectX. My first project was a basic cooperative spaceship game that taught me a lot about programming and networking. My love for game development led me to university, where I am now constantly learning and growing as a developer. In addition to my technical skills, my love for sports has taught me discipline, focus, and the ability to work well under pressure, making me a valuable asset to any team.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
-
-
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesr2104&show_icons=true&locale=en&layout=compact" alt="jesr2104" />
