@@ -18,14 +18,7 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 
 - ⚡ Something about me: I am a passionate software developer with a love for sports like BMX, Calisthenics, and boxing. My true passion, however, lies in the world of video games. It was my desire to understand how they were created that led me to study computer science and develop my own 2D and 3D games using C++ and libraries like SDL and DirectX. My first project was a basic cooperative spaceship game that taught me a lot about programming and networking. My love for game development led me to university, where I am now constantly learning and growing as a developer. In addition to my technical skills, my love for sports has taught me discipline, focus, and the ability to work well under pressure, making me a valuable asset to any team.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesr2104&show_icons=true&locale=en&layout=compact" alt="jesr2104" />
-
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesr2104&show_icons=true&locale=en&layout=compact" alt="jesr2104" /></p>
 
 
 
