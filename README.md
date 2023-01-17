@@ -12,7 +12,7 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 
 - 📫 How to reach me: **jjsotoramos@hotmail.com**
 
-- 📄 Know about my experiences: [http:\\](http:\\)
+- 📄 Know about my experiences: [My Resume Link](https://jesr2104.github.io/CV-Online/)
 
 - 👯 I’m looking to collaborate on: TaskManagementApp "App application to manage the assignment of a work team in the different projects that are being worked on during the week for a team of content moderators"
 
