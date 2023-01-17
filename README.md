@@ -46,9 +46,8 @@ I am a professional Android Software developer focused on the development for mo
 
 
 
-
 <h1 align="center">Hi 👋, I'm Jorge Soto Ramos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android developer with a strong background in developing high-quality applications for large companies. I have a deep understanding of popular design patterns such as MVC, MVP, MVVM, and Clean Architecture, as well as the latest tools and technologies such as Jetpack Compose, Koin, Dagger Hilt, Coroutines, LiveData, Compose States, Rooms, and Retrofit. I am highly adaptable and have experience in multiple programming languages such as C++, Java, Python, HTML, CSS, JavaScript and currently focused on Kotlin. With many years of experience in the software development industry, I am dedicated to writing clean and maintainable code. I look forward to contributing to new and exciting projects on GitHub.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesr2104&label=Profile%20views&color=0e75b6&style=flat" alt="jesr2104" /> </p>
 
