@@ -4,7 +4,7 @@
 
 ![https://github.com/Jesr2104](https://raw.githubusercontent.com/jesr2104/jesr2104/master/banner-githud.png)
 
-Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android developer with a strong background in developing high-quality applications for large companies. I have a deep understanding of popular design patterns such as MVC, MVP, MVVM, and Clean Architecture, as well as the latest tools and technologies such as Jetpack Compose, Koin, Dagger Hilt, Coroutines, LiveData, Compose States, Rooms, and Retrofit. I am highly adaptable and have experience in multiple programming languages such as C++, Java, Python, HTML, CSS, JavaScript and currently focused on Kotlin. With many years of experience in the software development industry, I am dedicated to writing clean and maintainable code. I look forward to contributing to new and exciting projects on GitHub.
+Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android developer with a strong background in developing high-quality applications for large companies. I have a deep understanding of popular design patterns such as [![MVC](https://img.shields.io/badge/MVC-3DDC84?style=flat=MVC)](), [![MVP](https://img.shields.io/badge/MVP-3DDC84?style=flat=MVP)](), [![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=flat=MVVM)](), and Clean Architecture, as well as the latest tools and technologies such as Jetpack Compose, Koin, Dagger Hilt, Coroutines, LiveData, Compose States, Rooms, and Retrofit. I am highly adaptable and have experience in multiple programming languages such as C++, Java, Python, HTML, CSS, JavaScript and currently focused on Kotlin. With many years of experience in the software development industry, I am dedicated to writing clean and maintainable code. I look forward to contributing to new and exciting projects on GitHub.
 
 - 🔭 I’m currently working on: [TrickyWords "project"](https://github.com/Jesr2104/TrickyWords_MiniGame)
 
@@ -87,6 +87,7 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60" /> 
 </a>
+
 
 
 
