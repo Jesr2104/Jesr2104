@@ -93,3 +93,6 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 
 
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
