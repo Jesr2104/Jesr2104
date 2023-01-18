@@ -6,7 +6,7 @@
 
 Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android developer with a strong background in developing high-quality applications for large companies. I have a deep understanding of popular design patterns such as MVC, MVP, MVVM, and Clean Architecture, as well as the latest tools and technologies such as Jetpack Compose, Koin, Dagger Hilt, Coroutines, LiveData, Compose States, Rooms, and Retrofit. I am highly adaptable and have experience in multiple programming languages such as C++, Java, Python, HTML, CSS, JavaScript and currently focused on Kotlin. With many years of experience in the software development industry, I am dedicated to writing clean and maintainable code. I look forward to contributing to new and exciting projects on GitHub.
 
-- 🔭 I’m currently working on: [TrickyWords](https://github.com/Jesr2104/TrickyWords_MiniGame)
+- 🔭 I’m currently working on: [TrickyWords "project"](https://github.com/Jesr2104/TrickyWords_MiniGame)
 
 - 🌱 I’m currently learning: Android constantly, Arduino
 
@@ -23,11 +23,13 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 
 ## Development Tools
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> 
-</a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/android/android-tile.svg" alt="android" width="40" height="40" /> 
+</a> 
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" /> 
-</a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> 
+</a> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40" /> 
 </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" />
@@ -51,16 +53,16 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> 
 </a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="50" /> 
 </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="45" /> 
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="45" /> 
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> 
@@ -77,13 +79,13 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 
 ## Design Tools
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="60" height="60" />
 </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" /> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60" /> 
 </a> 
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" /> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60" /> 
 </a>
 
 
