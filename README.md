@@ -30,7 +30,10 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="40" /> 
-</a> 
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
+</a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"alt="cplusplus" width="40" height="40" />
 </a>
@@ -52,11 +55,8 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> 
 </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="50" /> 
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
+        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
 </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="45" /> 
@@ -69,9 +69,6 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> 
