@@ -4,7 +4,7 @@
 
 ![https://github.com/Jesr2104](https://raw.githubusercontent.com/jesr2104/jesr2104/master/banner-githud.png)
 
-Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android developer with a strong background in developing high-quality applications for large companies. I have a deep understanding of popular design patterns such as [![MVC](https://img.shields.io/badge/MVC-3DDC84?style=flat=MVC)](), [![MVP](https://img.shields.io/badge/MVP-3DDC84?style=flat=MVP)](), [![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=flat=MVVM)](), and of course [![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-f4426c?style=flat&logoColor=white&labelColor=101010)](), as well as the latest tools and technologies such as [![Jetpack Compose](https://img.shields.io/badge/JetPack%20Compose-26a69a)](), Koin, Dagger Hilt, Coroutines, LiveData, Compose States, Rooms, and Retrofit. I am highly adaptable and have experience in multiple programming languages such as C++, Java, Python, HTML, CSS, JavaScript and currently focused on Kotlin. With many years of experience in the software development industry, I am dedicated to writing clean and maintainable code. I look forward to contributing to new and exciting projects on GitHub.
+Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android developer with a strong background in developing high-quality applications for large companies. I have a deep understanding of popular design patterns such as [![MVC](https://img.shields.io/badge/MVC-3DDC84?style=flat=MVC)](), [![MVP](https://img.shields.io/badge/MVP-3DDC84?style=flat=MVP)](), [![MVVM](https://img.shields.io/badge/MVVM-3DDC84?style=flat=MVVM)](), and of course [![Clean_Architecture](https://img.shields.io/badge/Clean_Architecture-f4426c?style=flat&logoColor=white&labelColor=101010)](), as well as the latest tools and technologies such as [![Jetpack Compose](https://img.shields.io/badge/JetPack%20Compose-26a69a)](), Koin, Dagger Hilt, Coroutines, LiveData, Compose States, Rooms, and Retrofit. I am highly adaptable and have experience in multiple programming languages such as C++, Java, Python, HTML, CSS, JavaScript and currently focused on Kotlin. With many years of experience in the software development industry, I am committed to develop clean and maintainable code. I look forward to contributing to new and exciting projects on GitHub.
 
 - 🔭 I’m currently working on: [TrickyWords "project"](https://github.com/Jesr2104/TrickyWords_MiniGame)
 
@@ -14,7 +14,7 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 
 - 📄 Know about my experiences: [My Resume Link](https://jesr2104.github.io/CV-Online/)
 
-- 👯 I’m looking to collaborate on: TaskManagementApp "App application to manage the assignment of a work team in the different projects that are being worked on during the week for a team of content moderators"
+- 👯 I’m looking to collaborate on: TaskManagementApp "Internal application to manage the assignment of a work team in the different projects that are being worked on during the week for a team of content moderators"
 
 - ⚡ Something about me: I am a passionate software developer with a love for sports like BMX, Calisthenics, and boxing. My true passion, however, lies in the world of video games. It was my desire to understand how they were created that led me to study computer science and develop my own 2D and 3D games using C++ and libraries like SDL and DirectX. My first project was a basic cooperative spaceship game that taught me a lot about programming and networking. My love for game development led me to university, where I am now constantly learning and growing as a developer. In addition to my technical skills, my love for sports has taught me discipline, focus, and the ability to work well under pressure, making me a valuable asset to any team.
 
@@ -84,6 +84,3 @@ Hi, my name is Jorge Soto Ramos and I'm from Spain. I'm an experienced Android d
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60" /> 
 </a>
-
-
-
